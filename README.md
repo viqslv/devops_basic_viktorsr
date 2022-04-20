@@ -1,2 +1,2 @@
-# devops_basic_viktorsr
-DevOps Pamati Iesācējiem
+# DevOps repozitorijs
+Viktors Rūsa DevOps repozotorija pamati iesācējiem
