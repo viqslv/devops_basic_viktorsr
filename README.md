@@ -1,2 +1,2 @@
 # DevOps repozitorijs
-Viktors Rūsa DevOps repozotorija pamati iesācējiem
+Viktora Rūsas DevOps repozotorija pamati iesācējiem
