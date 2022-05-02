@@ -6,9 +6,9 @@
 [saite uz README.md][readme]
 
 # 2.uzdevums:
-![2.uzdevums](../pics/2_git.png)
+![2.uzdevums](../pics/1_2_git.png)
 # 3.uzdevums:
-![3.uzdevums](../pics/3_IDE.png)
+![3.uzdevums](../pics/1_3_IDE.png)
 
 
 [autors]: <https://github.com/viqslv>
